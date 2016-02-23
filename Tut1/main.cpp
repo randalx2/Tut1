@@ -1,3 +1,9 @@
+
+//PRANEEL MISTHRY
+//202515355 COMPUTER METHODS 3 TUT1
+//24 FEB 2016
+//PLEASE FORGIVE THE LATE SUBMISSION DUE TO LATE REGISTRATION PROBLEMS AS DISCUSSED IN YOUR OFFICE
+/******************************************************************************************************************************/
 #include <iostream>
 #include <cstdio>
 #include <ctime> // Needed for srand function to seed the randomizer
